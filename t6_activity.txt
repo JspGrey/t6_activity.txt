@@ -1,3 +1,6 @@
 Version control is important because it can track new code.
 Provide history and a single source of trutH.
 And you can collab with different people efficiently.
+
+The advantages of Git compared to manual file management is, Git is great for storing plain txt documents.
+And Git is free for everyone.
