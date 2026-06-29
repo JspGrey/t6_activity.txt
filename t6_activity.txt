@@ -1,0 +1,3 @@
+Version control is important because it can track new code.
+Provide history and a single source of trutH.
+And you can collab with different people efficiently.
